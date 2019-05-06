@@ -3,3 +3,5 @@ def my_each(arg)
   puts word
   end
 end
+
+
